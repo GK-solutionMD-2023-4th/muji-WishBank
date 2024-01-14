@@ -1,0 +1,4 @@
+#Fri Dec 15 11:53:52 KST 2023
+base.0=/Users/leejh/Documents/WishBank/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
